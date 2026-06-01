@@ -1,0 +1,13 @@
+{
+  "streamOptions": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 60,
+    "bitrateVideo": 2000,
+    "bitrateAudio": 64
+  },
+  "acceptedAuthors": [
+    "1414215268854534327"
+  ],
+  "prefix": "!"
+}
